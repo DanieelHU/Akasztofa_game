@@ -24,4 +24,5 @@ else:
         if word[i] == tip:
             wordtemplate[i] = tip
             
-print("  ".join(wordtemplate))
+print("  ".join(wordtemplate)
+      
